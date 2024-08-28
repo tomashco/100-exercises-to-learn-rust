@@ -1,4 +1,4 @@
- mod ticket {
+mod ticket {
     pub struct Ticket {
         title: String,
         description: String,
